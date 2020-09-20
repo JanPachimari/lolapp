@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#8C713E</color>
-    <color name="colorPrimaryDark">#68542F</color>#CFA75
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#142E32</color>
+    <color name="colorPrimaryDark">#0F2225</color>
+    <color name="colorAccent">#CFA75C</color>
     <color name="leagueTitle">#CFA75C</color>
 </resources>
